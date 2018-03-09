@@ -1,0 +1,6 @@
+- Entity:
+  - PosVar:
+    - PAD
+  - NegVar:
+    - Amputation
+- Event

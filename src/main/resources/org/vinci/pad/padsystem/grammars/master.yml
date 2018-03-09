@@ -1,0 +1,10 @@
+taxonomy: org/vinci/pad/padsystem/grammars/taxonomy.yml
+
+rules:
+
+  - name: pad-1
+    label: PAD
+    priority: 1
+    type: token
+    pattern: |
+      [word=/^(?i)pad/]
