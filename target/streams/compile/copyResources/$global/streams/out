@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/reference.conf,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/reference.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci/pad,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci/pad)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci/pad/padsystem,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci/pad/padsystem)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci/pad/padsystem/grammars,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci/pad/padsystem/grammars)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci/pad/padsystem/grammars/master.yml,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci/pad/padsystem/grammars/master.yml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/heatherlent/PAD_IE/src/main/resources/org/vinci/pad/padsystem/grammars/taxonomy.yml,/Users/heatherlent/PAD_IE/target/scala-2.12/classes/org/vinci/pad/padsystem/grammars/taxonomy.yml)[0m

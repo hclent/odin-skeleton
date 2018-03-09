@@ -1,7 +1,0 @@
-sbt compile
-compile
-;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/1z/h7c4qdy90xvfckmylncbhw440000gp/T/sbt-structure.xml; session clear-all
-sbt
-products
-;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/1z/h7c4qdy90xvfckmylncbhw440000gp/T/sbt-structure.xml; session clear-all
-console
